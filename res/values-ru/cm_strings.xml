@@ -902,4 +902,8 @@
   <string name="show_dev_already_cm">Не нужно, настройки для разработчиков уже включены.</string>
   <string name="enable_adb_cm">Режим отладки</string>
   <string name="enable_adb_summary_cm">Включить интерфейс Android Debug Bridge (ADB)</string>
+  <string name="spam_added_title">Добавлено %1$s</string>
+  <string name="spam_last_blocked_title">Последний заблок. %1$s</string>
+  <string name="block_notifications_title">Фильтр уведомлений</string>
+  <string name="no_filters_title">Нет фильтров</string>
 </resources>
